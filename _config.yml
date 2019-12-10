@@ -1,11 +1,11 @@
 # Site settings
-author: Ahmed Hussein
-title: 
+author: Ahmed Hussein 
+title: Why I decided to change my  carrier .
 header-img: img/home-bg.png
 email: wolktheline@yahoo.com
-copyright_name: Ahmed Hussein
+copyright_name: Ahmed Hussein 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Ahmed13061988
